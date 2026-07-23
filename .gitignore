@@ -1,0 +1,25 @@
+# Kaiwu SDK checkpoints (contains task_id and API response data)
+checkpoint/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Config with secrets
+config.py
+
+# Temp test files
+test_conn.py
+rerun_verify.py
+_qtest*.py
+connect_test.py
+qubo_test.py
+
+# Output
+output/*.pdf
